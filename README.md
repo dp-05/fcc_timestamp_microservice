@@ -3,7 +3,7 @@
 
 Description: 
 
-This is an API that provides a timestamp in a JSON response in UNIX and UTC formats to valid date or time requests. 
+This is an API that provides a timestamp response in UNIX and UTC formats to valid date or time requests. 
   
 If left blank, the response is a simple date() object. If invalid (cannot be parsed in date() object), the response returns an error message.
 
