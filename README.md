@@ -1,9 +1,7 @@
 
 # API Project: Timestamp Microservice
 
-Description: 
-
-This is an API that provides a timestamp response in UNIX and UTC formats to valid date or time requests. 
+This API provides a timestamp response in UNIX and UTC formats to valid date or time requests. 
   
 If left blank, the response is the current timestamp. If invalid (cannot be parsed in date()), the response returns an error message.
 
