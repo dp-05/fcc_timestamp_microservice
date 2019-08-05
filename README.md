@@ -1,5 +1,5 @@
 
-# API Project: Timestamp Microservice
+# Timestamp Microservice
 
 This API provides a timestamp response in UNIX and UTC formats to valid date or time requests. 
   
